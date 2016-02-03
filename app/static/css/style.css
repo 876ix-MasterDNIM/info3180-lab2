@@ -1,0 +1,20 @@
+.photo {
+    float: left;
+    height: auto;
+    width: 200px;
+    background-color: #B19CD9;
+}
+
+p {
+  white-space: pre;
+}
+
+.blocks {
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 1px;
+    margin-top: 1px;
+    padding:5px;
+    border: 1px solid black;
+    background-color: #87CEFA;
+}
